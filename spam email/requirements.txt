@@ -1,0 +1,11 @@
+streamlit>=1.30
+sqlalchemy>=2.0
+pandas>=2.0
+numpy>=1.25
+scikit-learn>=1.4
+joblib>=1.4
+plotly>=5.0
+matplotlib>=3.8
+passlib>=1.7
+bcrypt>=4.0
+APScheduler>=3.10
